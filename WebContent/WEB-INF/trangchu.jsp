@@ -24,6 +24,7 @@
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	  <!-- Nhúng validation.js do ta tạo vào trang web --> 
 	  <script type="text/javascript" src="js/validation.js"></script>
+	  <script type="text/javascript" src="/TrungTamTinHocHoaiAnMVC/registerserviceworker.js"></script>
 	<head>
 	<body id="myPage">
 	<!-- Menu-->
