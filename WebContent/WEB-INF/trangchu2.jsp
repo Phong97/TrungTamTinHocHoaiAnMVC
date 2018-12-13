@@ -18,6 +18,7 @@
 <link rel="shortcut icon" href="js/favicon.ico">
 	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	  <script type="text/javascript" src="js/validation.js"></script>
+	   <script type="text/javascript" src="registerserviceworker.js"></script>
 	</head>
 	<body id="myPage">
 	<!-- danh mục-->
