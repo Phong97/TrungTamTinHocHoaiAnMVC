@@ -19,6 +19,8 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!-- Khai báo các thư viện js-->
 <script src="lib/jquery.min.js"></script>
+<link rel="manifest" href="js/manifest.json">
+<link rel="shortcut icon" href="js/favicon.ico">
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <!-- Nhúng validation.js do ta tạo vào trang web -->

@@ -22,6 +22,8 @@
 <link rel="stylesheet" href="lib/dataTables.bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <script src="lib/jquery.min.js"></script>
+<link rel="manifest" href="js/manifest.json">
+<link rel="shortcut icon" href="js/favicon.ico">
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="lib/jquery.dataTables.min.js"></script>
